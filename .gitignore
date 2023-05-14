@@ -1,6 +1,6 @@
-theme: architect
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+theme: architect
 
