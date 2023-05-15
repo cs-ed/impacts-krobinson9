@@ -28,6 +28,7 @@ The second project will have students analyzing a specific piece of technology t
 The presentation will be assessed according to a rubric and a survey that will be given to the 5th and 6th grade students.
 
 The written research report will be presented to peers in the class but also will be graded according to a rubric at the end of the enrichment course.
+
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+The plan helps facilitate diversity/equity/inclusion by allowing students choice in the topics that they research and in the methods of presenting, allowing relevance and interest to be the guiding factors. I also think presenting to the lower grades, the 5th and 6th grade students, will allow us to begin having the conversation of impacts of technology and responsible computing at an even younger age. I think it is important to get students thinking about the responsibility of using technology as soon as we can, and this will enable us to start that conversationg and maybe even have our 7th and 8th graders take ownership of their own technology use.
